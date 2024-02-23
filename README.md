@@ -2,17 +2,17 @@
 
 ## Yêu cầu phần cứng
 > [!NOTE]
-> MCU: ESP32
+> MCU: ESP32.
 > 
-> Sensor: DHT11, MQ4
+> Sensor: DHT11, MQ4.
 > 
-> Module: RFID, Buzzer, LCD, LN98N
+> Module: RFID, Buzzer, LCD, LN98N.
 > 
-> Motor: Servo, Motor 5V
+> Motor: Servo, Motor 5V.
 
 ## Yêu cầu phần mềm
 > [!NOTE]
-> Arduino IDE, MIT App Inverter
+> Arduino IDE, MIT App Invertor.
 
 ## Mô hình tổng quan hệ thống
 <img src="./Smart-Home/image/sdk.png" alt="Alt text" title="Optional title">
